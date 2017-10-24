@@ -1,0 +1,38 @@
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.Form1.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server2.exe.config
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server2.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server2.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\bin\Debug\Server_2.exe.config
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\bin\Debug\Server_2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\bin\Debug\Server_2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\bin\Debug\Server_2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\bin\Debug\Server_2.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server.Form1.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server_2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server_2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server_2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server1\Server\obj\Debug\Server_2.pdb
+\\filestore\VP2W\windows\desktop\Server1\Server\bin\Debug\Server_2.exe.config
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server_2.exe
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server_2.pdb
+\\filestore\VP2W\windows\desktop\Server1\Server\bin\Debug\Server_2.exe.manifest
+\\filestore\VP2W\windows\desktop\Server1\Server\bin\Debug\Server_2.application
+\\filestore\VP2W\windows\desktop\Server1\Server\bin\Debug\Server_2.exe
+\\filestore\VP2W\windows\desktop\Server1\Server\bin\Debug\Server_2.pdb
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server.Form1.resources
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server.Properties.Resources.resources
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server_2.exe.manifest
+\\filestore\VP2W\windows\desktop\Server1\Server\obj\Debug\Server_2.application

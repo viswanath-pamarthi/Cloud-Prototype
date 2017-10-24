@@ -1,0 +1,39 @@
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.Form1.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server_1.exe.config
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server_1.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server_1.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server_1.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Debug\Server_1.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server_1.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server_1.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server_1.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Debug\Server_1.pdb
+\\filestore\VP2W\windows\desktop\Server\bin\Debug\Server_1.exe.config
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server_1.exe
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server_1.pdb
+\\filestore\VP2W\windows\desktop\Server\bin\Debug\Server_1.exe.manifest
+\\filestore\VP2W\windows\desktop\Server\bin\Debug\Server_1.application
+\\filestore\VP2W\windows\desktop\Server\bin\Debug\Server_1.exe
+\\filestore\VP2W\windows\desktop\Server\bin\Debug\Server_1.pdb
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server.Form1.resources
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server.Properties.Resources.resources
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server_1.exe.manifest
+\\filestore\VP2W\windows\desktop\Server\obj\Debug\Server_1.application
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\bin\Debug\Server_1.exe.config
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\bin\Debug\Server_1.exe.manifest
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\bin\Debug\Server_1.application
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\bin\Debug\Server_1.exe
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\bin\Debug\Server_1.pdb
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server.Form1.resources
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server_1.exe.manifest
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server_1.application
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server_1.exe
+C:\Users\Vissu\Documents\OndeDriveMT\OneDrive - Middle Tennessee State University 1\Spring 16\Networks\project\CloudProject_ViswanathPamarthi\SourceCode\Server_1\obj\Debug\Server_1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server.Form1.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Release\Server2.exe.config
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Release\Server2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Release\Server2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Release\Server2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\bin\Release\Server2.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server2.exe.manifest
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server2.application
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server2.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Server\obj\Release\Server2.pdb

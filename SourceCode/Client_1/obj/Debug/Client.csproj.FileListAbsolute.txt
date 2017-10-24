@@ -1,0 +1,20 @@
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\bin\Debug\Client.exe.config
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\bin\Debug\Client.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\bin\Debug\Client.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.Form1.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.PostLogin.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.exe
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.pdb
+C:\Users\Vissu\Documents\Visual Studio 2013\Projects\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client.Form1.resources
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client.PostLogin.resources
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client.Properties.Resources.resources
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\filestore\VP2W\windows\desktop\Client\bin\Debug\Client_1.exe.config
+\\filestore\VP2W\windows\desktop\Client\bin\Debug\Client_1.exe
+\\filestore\VP2W\windows\desktop\Client\bin\Debug\Client_1.pdb
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client_1.exe
+\\filestore\VP2W\windows\desktop\Client\obj\Debug\Client_1.pdb
